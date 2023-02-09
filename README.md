@@ -1,16 +1,57 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**JoseSanchez54/JoseSanchez54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 🙋‍♂️
+* Jose Sánchez
+* Live in Madrid, Spain
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My experiences 🧑‍💻
+
+| When | Where | What |
+| ---- | ----- | ---- |
+| 2019 | 🏢 Atlantica | Development Team Leader |
+| 2019.08 ~ 2023 | 🏢 Meteor.com.| Full Stack Developer |
+| 2021.02 ~ 2021.05 | 🏢 OpenSea | Web Developer |
+| 2020.03 ~ 2023 | 🏢 MWLB. Marketing Agency | CTO |
+
+## How to reach me 🤙
+
+
+![Link](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&Color=white&style=for-the-badge&link=https://www.linkedin.com/in/jsanchezverdu/)]
+
+
+## Technologies
+<details markdown="tech">
+<summary>Toggle</summary>
+
+### Proficient
+* React (and Next.js)
+* MongoDB
+* TypeScript
+* React Native
+* Nest.js
+* Python
+* Git
+* AWS
+
+### Knowledgeable
+* Kotlin (and Java)
+* Objective-C
+* Swift
+* CI/CD (with Github Actions or AWS CodePipeline)
+* Docker
+
+### Interested
+* Astro
+* WebAssembly
+* Kubernetes
+* Svelte
+* Rust
+* WebRTC
+* Go
+* Vue.js
+  
+</details>
+
+
