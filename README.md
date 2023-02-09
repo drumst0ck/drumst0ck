@@ -17,8 +17,7 @@
 
 ## How to reach me 🤙
 
-
-![Link](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&Color=white&style=for-the-badge&link=https://www.linkedin.com/in/jsanchezverdu/)]
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&Color=white&style=for-the-badge&link=https://www.linkedin.com/in/jsanchezverdu/)](https://www.linkedin.com/in/jsanchezverdu/)
 
 
 ## Technologies
