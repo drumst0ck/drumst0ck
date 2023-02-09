@@ -11,7 +11,7 @@
 | When | Where | What |
 | ---- | ----- | ---- |
 | 2019 | 🏢 Atlantica/Telefónica | Development Team Leader |
-| 2019.08 ~ 2023 | 🏢 Meteor.com.| Full Stack Developer |
+| 2019.08 ~ 2023 | 🏢 Meteor.com | Full Stack Developer |
 | 2021.02 ~ 2021.05 | 🏢 OpenSea | Web Developer |
 | 2020.03 ~ 2023 | 🏢 MWLB. Marketing Agency | CTO |
 
