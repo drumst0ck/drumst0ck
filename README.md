@@ -26,6 +26,7 @@
 
 ### Proficient
 * React (and Next.js)
+* PHP
 * MongoDB
 * TypeScript
 * React Native
@@ -33,6 +34,7 @@
 * Python
 * Git
 * AWS
+
 
 ### Knowledgeable
 * Kotlin (and Java)
