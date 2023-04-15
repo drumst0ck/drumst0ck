@@ -54,5 +54,5 @@
 * Vue.js
   
 </details>
-<a href="https://app.daily.dev/drumstock"><img src="[https://github.com/JoseSanchez54/JoseSanchez54/blob/main/devcard.svg](https://raw.githubusercontent.com/JoseSanchez54/JoseSanchez54/2774c80fba50b597effe4aceb9fe87283c002f04/devcard.svg)" width="400" alt="Jose Sánchez (Drumstock)'s Dev Card"/></a>
+<a href="https://app.daily.dev/drumstock"><img src="https://github.com/JoseSanchez54/JoseSanchez54/blob/main/devcard.svg" width="400" alt="Jose Sánchez (Drumstock)'s Dev Card"/></a>
 
