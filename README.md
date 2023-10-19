@@ -10,10 +10,9 @@
 
 | When | Where | What |
 | ---- | ----- | ---- |
-| 2019 | 🏢 Atlantica/Telefónica | Development Team Leader |
+| 2021.02 ~ 2021.05 | 🏢 OpenSea | Interfaces Developer |
 | 2019.08 ~ 2023 | 🏢 Meteor.com | Full Stack Developer |
-| 2021.02 ~ 2021.05 | 🏢 OpenSea | Web Developer |
-| 2020.03 ~ 2023 | 🏢 MWLB. Marketing Agency | CTO |
+| 2017.03 ~ 2023 | 🏢 MWLB. Marketing Agency | CTO |
 
 ## How to reach me 🤙
 
@@ -28,19 +27,20 @@
 * React (and Next.js)
 * PHP
 * MongoDB
+* WebSockets
 * TypeScript
 * React Native
 * Nest.js
 * Python
 * Git
 * AWS
+* CI/CD (with Github Actions or AWS CodePipeline)
 
 
 ### Knowledgeable
 * Kotlin (and Java)
 * Objective-C
 * Swift
-* CI/CD (with Github Actions or AWS CodePipeline)
 * Docker
 
 ### Interested
