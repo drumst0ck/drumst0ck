@@ -10,7 +10,6 @@
 
 | When | Where | What |
 | ---- | ----- | ---- |
-| 2021.02 ~ 2021.05 | 🏢 OpenSea | Interfaces Developer |
 | 2019.08 ~ 2023 | 🏢 Meteor.com | Full Stack Developer |
 | 2017.03 ~ 2023 | 🏢 MWLB. Marketing Agency | CTO |
 
