@@ -5,14 +5,6 @@
 * Live in Madrid, Spain
 
 
-
-## My experiences 🧑‍💻
-
-| When | Where | What |
-| ---- | ----- | ---- |
-| 2019.08 ~ 2023 | 🏢 Meteor.com | Full Stack Developer |
-| 2017.03 ~ 2023 | 🏢 MWLB. Marketing Agency | CTO |
-
 ## How to reach me 🤙
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&Color=white&style=for-the-badge&link=https://www.linkedin.com/in/jsanchezverdu/)](https://www.linkedin.com/in/jsanchezverdu/)
