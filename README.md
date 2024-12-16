@@ -11,8 +11,7 @@
 
 
 ## Technologies
-<details markdown="tech">
-<summary>Toggle</summary>
+
 
 ### Proficient
 * React (and Next.js)
